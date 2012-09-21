@@ -21,8 +21,8 @@ If you want to use another POSIX system make sure to do:
                       
                       If you want to be sure of a succesfull crack, enter the password of the AP you want to crack.
 
-3. copy the script to any location on your PC/laptop
-4. open a terminal and wrtite: chmod +x /(path to your where ever you have put your script)
+3. Open terminal and paste the script to: nano /usr/sbin/cackwpa2 and save changes
+4. In terminal and write: chmod +x /usr/sbin/crackwpa2
 
 5. In terminal write: crackwpa2
 
